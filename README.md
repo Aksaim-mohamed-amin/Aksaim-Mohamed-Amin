@@ -38,36 +38,32 @@
 
 ## test
 
-
-
 <p>
-	<p>
-		<picture>
-			<source
-			srcset="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=f6a5ff&icon_color=3acdd3&show_owner=true&theme=transparent"
-			media="(prefers-color-scheme: dark)"
-			/>
-			<source
-			srcset="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true"
-			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-			/>
-			<img align="left" min-width="490" max-width="50%" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
-		</picture>
-	</p>
-	<p>
-		<picture>
-			<source
-			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa&theme=transparent"
-			media="(prefers-color-scheme: dark)"
-			/>
-			<source
-			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa"
-			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-			/>
-			<img align="left" min-width="490" max-width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa" />
-		</picture>
-	</p>
+	<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=f6a5ff&icon_color=3acdd3&show_owner=true&theme=transparent"
+		media="(prefers-color-scheme: dark)"
+		/>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+	<img align="left" min-width="490" max-width="50%" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
+	</picture>
+	<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa&theme=transparent"
+		media="(prefers-color-scheme: dark)"
+		/>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+	<img align="left" min-width="490" max-width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa" />
+	</picture>
+
 </p>
+<br>
 <p align="center">
 	<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/><br>
@@ -76,5 +72,4 @@
 	<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
-
 
