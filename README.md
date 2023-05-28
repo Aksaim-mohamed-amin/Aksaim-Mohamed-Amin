@@ -12,6 +12,7 @@
 	</picture>
 </p>
 
+
 <p align="left" width="100" height="165">
 	<picture>
 		<source
@@ -22,7 +23,7 @@
 		srcset="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
-		<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
+		<img align="left" min-width="490" max-width="50%" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
 	</picture>
 	<p align="right" width="50%">
 		<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -33,3 +34,4 @@
 		<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 	</p>
 </p>
+
