@@ -38,7 +38,7 @@ Let's create something awesome together! 🚀
 		srcset="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
-		<img align="left" min-width="300" max-width="40%" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
+		<img align="left" max-width="460" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
 	</picture>
 	<picture>
 		<source
@@ -49,9 +49,9 @@ Let's create something awesome together! 🚀
 			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa"
 			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 			/>
-		<img align="right" min-width="300" max-width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa" />
+		<img align="left" max-width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa" />
 	</picture>
-	<p align="right">
+	<p align="left">
 		<img src="https://img.shields.io/badge/Language-005495?style=flat-square&logo=c&logoColor=white"/>
 		<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 		<img src="https://img.shields.io/badge/Bash-56585d?style=flat-square&logo=gnubash&logoColor=white"/>
