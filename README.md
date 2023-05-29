@@ -56,15 +56,17 @@ Let's create something awesome together! 🚀
 	/>
 	<img align="left" max-width="460" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
 </picture>
-<picture>
-	<source
-	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa&theme=transparent"
-	media="(prefers-color-scheme: dark)"
-	/>
-	<source
-	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa"
-	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	/>
-	<img align="right" max-width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa" />
-</picture>
+</p>
+<p>
+	<picture>
+		<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa&theme=transparent"
+		media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<img align="right" max-width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa" />
+	</picture>
 </p>
