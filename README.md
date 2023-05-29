@@ -12,8 +12,8 @@
 	</picture>
 </p>
 
-<h1 align="left">Hllo World! I'm Aksaim Mohmaed Amin</h1>
-<h3 align="left">I'm a passionate and curious individual who loves to learn new things and embrace challenges. With a background in physics and a growing expertise in software engineering, I strive to become the best coder I can be.</h3>
+<h1 align="left">Hllo World! I'm Amin 👋</h1>
+<h3 align="left">Passionate and curious individual who loves to learn new things and embrace challenges. With a background in physics and a growing expertise in software engineering, I strive to become the best coder I can be.</h3>
 
 
 - 💼 Email Marketing Specialist at Econsultancy | [09-2022] - [Current Date].
