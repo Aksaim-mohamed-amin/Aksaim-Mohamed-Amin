@@ -16,7 +16,7 @@
 <h3 align="left">Passionate and curious individual who loves to learn new things and embrace challenges. With a background in physics and a growing expertise in software engineering, I strive to become the best coder I can be.</h3>
 
 
-- 💼 Email Marketing Specialist at Econsultancy | [09-2022] - [Current Date].
+- 💼 Email Marketing Specialist at Econsultancy [09-2022] - [Current Date].
 
 - 🎓 Currently enrolled in the ALX Software Engineering program, focusing on honing my coding skills and expanding my knowledge in various programming languages and tools.
 
