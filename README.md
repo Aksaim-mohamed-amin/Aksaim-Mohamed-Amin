@@ -12,7 +12,7 @@
 	</picture>
 </p>
 
-<h1 align="left">Hllo World! I'm Amin 👋</h1>
+<h1 align="left">Hllo World! I'm Aksaim Mohmaed Amin</h1>
 <h3 align="left">I'm a passionate and curious individual who loves to learn new things and embrace challenges. With a background in physics and a growing expertise in software engineering, I strive to become the best coder I can be.</h3>
 
 
@@ -62,5 +62,5 @@
 	</picture>
 </p>
 <p>
-	<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Aksaim-Mohamed-Amin&theme=transparent&hide_border=true&border_radius=4.3&card_width=480" alt="aksaim-mohamed-amin" />
+	<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Aksaim-Mohamed-Amin&theme=transparent&hide_border=true&border_radius=4.3&card_width=350" alt="aksaim-mohamed-amin" />
 </p>
