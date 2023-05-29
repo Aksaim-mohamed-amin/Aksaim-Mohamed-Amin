@@ -49,7 +49,7 @@ Let's create something awesome together! 🚀
 			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa"
 			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 			/>
-		<img align="left" min-width="350" max-width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa" />
+		<img align="center" min-width="350" max-width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaim-Mohamed-Amin&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=03a8aa" />
 	</picture>
 	<p align="right">
 		<img src="https://img.shields.io/badge/Language-005495?style=flat-square&logo=c&logoColor=white"/>
