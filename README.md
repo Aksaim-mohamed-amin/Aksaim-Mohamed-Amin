@@ -58,7 +58,7 @@
 		srcset="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
-		<img  align="left" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
+		<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=Aksaim-Mohamed-Amin&show_icons=true&hide_border=true&line_height=20&title_color=03a8aa&icon_color=462a8c&show_owner=true" />
 	</picture>
 </p>
 <p>
